@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 test 2 fffffffffffffffffffffffffffffffffffffff
+=======
+test 2 edited by  my new
+>>>>>>> 3c3acc9991cf53604c0f3585cfbc43a034d6f6c8
